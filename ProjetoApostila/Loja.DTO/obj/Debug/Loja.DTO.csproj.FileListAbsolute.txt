@@ -1,0 +1,5 @@
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DTO\bin\Debug\Loja.DTO.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DTO\bin\Debug\Loja.DTO.pdb
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DTO\obj\Debug\Loja.DTO.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DTO\obj\Debug\Loja.DTO.pdb

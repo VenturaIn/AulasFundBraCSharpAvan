@@ -1,0 +1,12 @@
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\obj\Debug\Loja.DAL.csprojAssemblyReference.cache
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\obj\Debug\Loja.DAL.csproj.CoreCompileInputs.cache
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\bin\Debug\Loja.DAL.dll.config
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\bin\Debug\Loja.DAL.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\bin\Debug\Loja.DAL.pdb
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\bin\Debug\Loja.DTO.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\bin\Debug\Loja.DTO.pdb
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\obj\Debug\Loja.DAL.Properties.Resources.resources
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\obj\Debug\Loja.DAL.csproj.GenerateResource.cache
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\obj\Debug\Loja.DAL.csproj.CopyComplete
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\obj\Debug\Loja.DAL.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.DAL\obj\Debug\Loja.DAL.pdb

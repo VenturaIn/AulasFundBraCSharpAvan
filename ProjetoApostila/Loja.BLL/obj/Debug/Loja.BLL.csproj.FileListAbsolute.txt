@@ -1,0 +1,12 @@
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\obj\Debug\Loja.BLL.csproj.CoreCompileInputs.cache
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\bin\Debug\Loja.BLL.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\bin\Debug\Loja.BLL.pdb
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\bin\Debug\Loja.DAL.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\bin\Debug\Loja.DTO.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\bin\Debug\Loja.DAL.pdb
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\bin\Debug\Loja.DAL.dll.config
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\bin\Debug\Loja.DTO.pdb
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\obj\Debug\Loja.BLL.csprojAssemblyReference.cache
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\obj\Debug\Loja.BLL.csproj.CopyComplete
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\obj\Debug\Loja.BLL.dll
+I:\Aulas\AulasFundBraCSharpAvan\ProjetoApostila\Loja.BLL\obj\Debug\Loja.BLL.pdb
